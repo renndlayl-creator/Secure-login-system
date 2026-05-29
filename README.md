@@ -17,7 +17,7 @@ A secure login application built with Python, Tkinter, SQLite and SHA-256 passwo
 
 ### Main Window
 
-![Main Window](screenshots/login_screen.png)
+![Login](screenshots/login_screen.png.png)
 
 ### Successful Login
 
